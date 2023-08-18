@@ -1,0 +1,78 @@
+.header{
+    background-color: #0C0C0C;
+    padding: 30px 200px;
+    /* position: fixed; */
+    width: 100%;
+    
+    
+
+    
+}
+.navigation > *{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 20px;
+    margin-top: 20px;
+   
+    
+   
+}
+.logoName{
+    float: left;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 0px 20px;
+    font-size: large;
+}
+.btn{
+    background-color:rgb(176, 136, 61);
+    margin-top: -10px;
+    margin-left: 600px;
+    color: aliceblue;
+   
+    
+}
+.MD{
+    color:rgb(176, 136, 61);
+}
+.navigation :hover{
+    color: rgb(176, 136, 61);
+}
+
+.container{
+    margin: 50px;
+    padding: 10px;
+    
+}
+
+.NAME{
+    font-size: xx-large;
+    color:#000;
+    
+    
+}
+.text{
+    font-size: large;
+    font-family: 'Playfair Display', serif;
+    
+}
+.web{
+    font-size: xx-large;
+    color:rgb(176, 136, 61);
+
+    
+
+}
+.contactme{
+    text-align: center;
+    font-size: x-large;
+
+}
+.contactme>*{
+    margin: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    /* color:#0C0C0C; */
+}
+
+
